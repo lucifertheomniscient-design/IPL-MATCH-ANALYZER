@@ -165,4 +165,4 @@ Python, pandas, scikit-learn, FastAPI, Streamlit, Render.
 
 IPL Complete Dataset by patrickb1912 on Kaggle: https://www.kaggle.com/datasets/patrickb1912/ipl-complete-dataset-20082020
 
-Built by Sarthak as a learning project.
+Built by Pranjay & Piyush as a learning project.
